@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c857473963b8149d382d1bf5e13ab9be
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - progress: {fileID: 8300000, guid: c61afe18f806641cab035b8c18cf3861, type: 3}
+  - beep1: {fileID: 8300000, guid: f6527b9c9bb8d47909332b9d0e2dcf11, type: 3}
+  - beep2: {fileID: 8300000, guid: 49e456ace850a47588e81e59492e006a, type: 3}
+  - win: {fileID: 8300000, guid: 3c1b305bb6d1e42448d5657fcf3f09db, type: 3}
+  - pickup: {fileID: 8300000, guid: 625b3101ba8ef4bf1b1c1ba00e75ffd0, type: 3}
+  - pass: {fileID: 8300000, guid: 34c7746c269fc4171a2cb07eca2d7a4a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
